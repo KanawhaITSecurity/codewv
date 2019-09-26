@@ -3,6 +3,7 @@ the Project CODE traveler area
 
 
 Mission Statement
+
 Education should be available to anyone who wants to learn and it shouldn't cost anything.
 
 The concept is to use computers to assist people with learning things, hence the computer oriented part of the name. 
