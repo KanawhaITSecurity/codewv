@@ -20,4 +20,4 @@ of the project; by merely guiding the traveler, we are able to use our general s
 subjects themselves. I don't have to know HTML in order to help a traveler learn HTML, I merely have to be available to 
 help guide them down the path by using research and problem solving techniques.
 
-Watch the movie at coewv.org then check out the free training on the training page.
+Watch the movie at codewv.org then check out the free training on the training page.
